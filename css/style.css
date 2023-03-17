@@ -1,0 +1,10 @@
+nav.bg-propio {
+    background-color: turquoise;
+}
+ul.navbar-nav li.nav-item a.link-propio {
+    background-color: greenyellow;
+}
+ul.navbar-nav li.nav-item a.link-propio:hover {
+    background-color: black;
+    color: tomato;
+} 

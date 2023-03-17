@@ -1,0 +1,7 @@
+.DS_Store
+#archivos
+notas.doc
+#carpeta
+fotos
+# excluir todos los .svg
+*.svg
